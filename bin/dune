@@ -1,0 +1,4 @@
+(executable
+ (public_name dairy)
+ (name main)
+ (libraries dairy))
