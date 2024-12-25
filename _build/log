@@ -1,5 +1,0 @@
-# dune init proj dairy
-# OCAMLPARAM: unset
-# Shared cache: disabled
-# Workspace root: /home/rli43/code/dairy
-# Auto-detected concurrency: 8
